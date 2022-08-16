@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravpurohit28
 - 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some amazing projects 
 - 📫 you can reach out to me on...
 -  linkedin-https://www.linkedin.com/in/gaurav-purohit-4b2121209/
