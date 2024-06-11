@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Gaurav !
 
-<a href='https://linkedin.com/in/anishsoni/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/gaurav-purohit-4b2121209/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
@@ -8,20 +8,16 @@ Learning, building, and iterating (Python Developer 🌐, Data Analyst 📈, ML 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/9PrqNHPAdWyJVOXntF" width="360px"/>
+<img align="right" alt="GIF" src="https://giphy.com/gifs/after-effects-code-trapcode-9PrqNHPAdWyJVOXntF" width="360px"/>
 
 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently learning **Python & Django**
-- 🤝 &nbsp; I’m looking to collaborate on [face-detection-attendance-system](https://github.com/anishsoni29/Face-Detection-Attendance-System)
 - 🌱 &nbsp; I’m currently learning Django & Flask; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/anishsoni29?tab=repositories)
-- 🎨 &nbsp; Using [Figma](https://www.figma.com/file/nREWw4GJZ6hRXxMrIlNy8X/Nike-Website-UI-Design?type=design&node-id=0-1&mode=design&t=Yo4LJL36gHwE8jIB-0) I made 👉
-- 💬 &nbsp; Ask me about anything tech and finance related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
+- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/gauravpurohit28?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gaurav-purohit-4b2121209/)
 - 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
-- 📚 &nbsp; I enjoy traveling, photography, reading, and playing games when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
 
 <br>
 
