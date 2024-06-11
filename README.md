@@ -1,14 +1,15 @@
 ## Hey 👋, I'm Gaurav !
 
 <a href='https://www.linkedin.com/in/gaurav-purohit-4b2121209/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://x.com/GauravP12505494'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<br>
+
 
 Learning, building, and iterating (Python Developer 🌐, Data Analyst 📈, ML Enthusiast 🤖). Feel free to browse my projects, collaborate, or simply say hello! I'm always open to connecting with fellow tech enthusiasts.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/after-effects-code-trapcode-9PrqNHPAdWyJVOXntF" width="360px"/>
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNvNHk0cmVvdDV2OTJpdHI1MWE4M3FkaG0zaDFybzYxZ3d0cXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="360px"/>
 
 
 ### 🧐 More About Me:
@@ -17,7 +18,7 @@ Learning, building, and iterating (Python Developer 🌐, Data Analyst 📈, ML 
 - 🌱 &nbsp; I’m currently learning Django & Flask; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/gauravpurohit28?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gaurav-purohit-4b2121209/)
-- 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jrDUdtt5z7ojT08DyLYi3px4ONUDjSAJ/view)
 
 <br>
 
