@@ -14,7 +14,7 @@ Learning, building, and iterating (Python Developer 🌐, Data Analyst 📈, AI/
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently learning **Python & Django**
+- 🔭 &nbsp; I’m currently learning **DevOps**
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/gauravpurohit28?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gaurav-purohit-4b2121209/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jrDUdtt5z7ojT08DyLYi3px4ONUDjSAJ/view)
