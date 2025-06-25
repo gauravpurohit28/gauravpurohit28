@@ -5,7 +5,7 @@
 <br>
 
 
-Learning, building, and iterating (Python Developer 🌐, Data Analyst 📈, AI/ML Enthusiast 🤖). Feel free to browse my projects, collaborate, or simply say hello! I'm always open to connecting with fellow tech enthusiasts.
+Learning, building, and iterating (Web Developer 🌐,  AI/ML Enthusiast 🤖, Python Developer🌐). Feel free to browse my projects, collaborate, or simply say hello! I'm always open to connecting with fellow tech enthusiasts.
 <br/>
 <br/>
 
