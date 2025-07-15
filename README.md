@@ -6,12 +6,11 @@
 
 
 Learning, building, and iterating (Web Developer 🌐,  AI/ML Enthusiast 🤖, Python Developer🌐). Feel free to browse my projects, collaborate, or simply say hello! I'm always open to connecting with fellow tech enthusiasts.
-<br/>
-<br/>
+
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNvNHk0cmVvdDV2OTJpdHI1MWE4M3FkaG0zaDFybzYxZ3d0cXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="360px"/>
 
-<br>
+</br>
 
 ### 🧐 More About Me:
 
@@ -20,7 +19,6 @@ Learning, building, and iterating (Web Developer 🌐,  AI/ML Enthusiast 🤖, P
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gaurav-purohit-4b2121209/)
 - 📝 &nbsp; Checkout my [portfolio](https://gaurav-purohit.vercel.app)
 
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -31,6 +29,8 @@ Learning, building, and iterating (Web Developer 🌐,  AI/ML Enthusiast 🤖, P
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img align="left" alt="Jupyter-Notebook" height ="42px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+
+</br>
 
 ## 🚀 Main Projects
 
