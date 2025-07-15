@@ -11,6 +11,7 @@ Learning, building, and iterating (Web Developer 🌐,  AI/ML Enthusiast 🤖, P
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNvNHk0cmVvdDV2OTJpdHI1MWE4M3FkaG0zaDFybzYxZ3d0cXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="360px"/>
 
+<br>
 
 ### 🧐 More About Me:
 
