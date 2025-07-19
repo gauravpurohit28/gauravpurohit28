@@ -54,7 +54,7 @@ A next-generation AI chatbot utilizing the Gemini API for enhanced natural langu
 
 ---
 
-### [Breast Cancer Diagnosis](https://colab.research.google.com/drive/1EsRZVwOCfcevIeMiNvXRVkDrjYPjWyKq#scrollTo=Y2YDRxObfUFO) | [Live Preview](https://gauravbreastcp.glitch.me)
+### [Breast Cancer Diagnosis](https://github.com/gauravpurohit28/Breast-cancer-diagnosis) | [Live Preview](https://breast-cancer-diagnosis-one.vercel.app/)
 A machine learning model for early detection of breast cancer using histopathological image analysis.  
 **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
 
