@@ -36,6 +36,12 @@ Learning, building, and iterating (Web Developer 🌐,  AI/ML Enthusiast 🤖, P
 
 Here are some of my main projects featured on my portfolio:
 
+### [Youtube RAG Assistant](https://github.com/gauravpurohit28/Youtube-RAG)
+YouTube-RAG Assistant is a context-aware AI tool that uses Retrieval-Augmented Generation (RAG) to fetch and analyze YouTube video transcripts, delivering precise answers and insights from the content.
+**Tech Stack:** React, Flask, Langchain, RAG, Gemini API
+
+---
+
 ### [Virtual Assistant](https://github.com/gauravpurohit28/VirtualAssistant)
 A customizable AI-powered assistant that performs tasks, answers questions, and interacts via voice commands. Features include web search, YouTube playback, weather, and more.  
 **Tech Stack:** React, Node.js, Express, MongoDB, JWT Auth, Gemini API
